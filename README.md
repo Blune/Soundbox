@@ -1,4 +1,4 @@
-# Soundbox
+# Soundbox with kitchen sounds
 
 This was a small project I have done. 
 It plays kitchen sounds and was added to a toy kitchen.
