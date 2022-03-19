@@ -8,3 +8,9 @@ To save the battery power the box will go in standby mode with low power consump
 
 ![Front view](SoundBoxFront.jpg)
 ![Back view](SoundBoxBack.jpg)
+
+
+Schematics are close to this. Just the baterry and the wakeup pin are missing:
+https://www.circuito.io/app?components=97,97,97,97,97,514,11114,336411
+
+![Schema](Schema.jpg)
